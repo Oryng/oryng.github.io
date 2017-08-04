@@ -1,0 +1,4 @@
+# Backups
+*.orig
+*.bak
+*~
